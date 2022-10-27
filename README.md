@@ -1,4 +1,13 @@
-### Hi there 👋
+# Hi there 👋
+
+#### || Welcome to my Github! I'm a Full-Stack Developer with a background in Sport Science and Coaching ||
+
+Projects: 
+
+  - <a href="https://prpedrosa.github.io/Project_1_game/" target="_blank">Mr. Noobs game</a>
+
+Check out <a href="https://www.linkedin.com/in/pedrorpedrosa">My LinkedIn</a>
+
 
 <!--
 **PrPedrosa/PrPedrosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -10,7 +19,5 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me:
 -->
