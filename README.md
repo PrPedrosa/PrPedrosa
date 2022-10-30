@@ -1,12 +1,52 @@
-# Hi there 👋
 
-#### || Welcome to my Github! I'm a Full-Stack Developer with a background in Sport Science and Coaching ||
+<h1 align="center">Full-Stack Developer</h1>
 
-Projects: 
-<ul>
-  <li><a href="https://prpedrosa.github.io/Project_1_game/" target="_blank">Mr. Noobs game</a></li>
-</ul>
-Check out my<a href="https://www.linkedin.com/in/pedrorpedrosa">LinkedIn</a>
+Connect with me at: <a href="https://www.linkedin.com/in/pedrorpedrosa" rel="noreferrer">LinkedIn</a>
+
+<h3 align="center">Projects</h3>
+
+
+<p align="center"><a href="https://prpedrosa.github.io/Project_1_game/" target="_blank" rel="noreferrer">Mr. Noobs game</a></p>
+
+
+<hr>
+
+<h3 align="center">Languages & Tools</h3>
+
+<br>
+
+<p align="center">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"
+    rel="noreferrer"> <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+      alt="javascript" width="40" height="40" /> 
+  </a> 
+  </a> 
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
+      alt="nodejs" width="40" height="40" /> 
+  </a>  
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
+      alt="react" width="40" height="40" /> 
+  </a> 
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40"
+      height="40" /> 
+  </a>
+  <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img
+      src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/express/express-original-wordmark.svg" alt="expressjs" width="40"
+      height="40" /> 
+  </a> 
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"> <img
+      src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original.svg" alt="html5" width="40"
+      height="40" /> 
+  </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"> <img
+      src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg" alt="css3" width="40"
+      height="40" /> 
+  </a> 
+  </p>
 
 
 <!--
