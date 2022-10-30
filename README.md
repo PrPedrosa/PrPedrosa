@@ -3,10 +3,10 @@
 #### || Welcome to my Github! I'm a Full-Stack Developer with a background in Sport Science and Coaching ||
 
 Projects: 
-
-  - <a href="https://prpedrosa.github.io/Project_1_game/" target="_blank">Mr. Noobs game</a>
-
-Check out <a href="https://www.linkedin.com/in/pedrorpedrosa">My LinkedIn</a>
+<ul>
+  <li><a href="https://prpedrosa.github.io/Project_1_game/" target="_blank">Mr. Noobs game</a></li>
+</ul>
+Check out my<a href="https://www.linkedin.com/in/pedrorpedrosa">LinkedIn</a>
 
 
 <!--
