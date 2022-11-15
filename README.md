@@ -6,7 +6,8 @@ Connect with me at: <a href="https://www.linkedin.com/in/pedrorpedrosa" rel="nor
 <h3 align="center">Projects</h3>
 
 
-<p align="center"><a href="https://prpedrosa.github.io/Project_1_game/" target="_blank" rel="noreferrer">Mr. Noobs game</a></p>
+<p align="center"><a href="https://prpedrosa.github.io/Project_1_game/" target="_blank" rel="noreferrer">Mr.Noobs game</a></p>
+<p align="center"><a href="https://project2videogames.herokuapp.com/" target="_blank" rel="noreferrer">GamingHub</a></p>
 
 
 <hr>
