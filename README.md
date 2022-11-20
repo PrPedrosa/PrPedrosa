@@ -1,7 +1,7 @@
 
 <h1 align="center">Full-Stack Developer</h1>
 
-Connect with me at: <a href="https://www.linkedin.com/in/pedrorpedrosa" rel="noreferrer">LinkedIn</a>
+#### Connect with me at: <a href="https://www.linkedin.com/in/pedrorpedrosa" rel="noreferrer">LinkedIn</a>
 
 <h3 align="center">Projects</h3>
 
