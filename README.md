@@ -8,6 +8,7 @@
 
 <p align="center"><a href="https://prpedrosa.github.io/Project_1_game/" target="_blank" rel="noreferrer">Mr.Noobs game</a></p>
 <p align="center"><a href="https://gaminghub.cyclic.app/" target="_blank" rel="noreferrer">GamingHub</a></p>
+<p align="center"><a href="https://pescarnasavencas.netlify.app/" target="_blank" rel="noreferrer">Fishing in Avencas</a></p>
 
 
 <hr>
