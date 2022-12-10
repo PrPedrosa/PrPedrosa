@@ -14,7 +14,7 @@
 <hr>
 
 <p align="center">
-  <img src="https://www.codewars.com/users/PrPedrosa/badges/large" alt="codewars badge"
+  <a href="https://www.codewars.com/users/PrPedrosa/"><img src="https://www.codewars.com/users/PrPedrosa/badges/large" alt="codewars badge"/></a>
 </p>
 
 <hr>
