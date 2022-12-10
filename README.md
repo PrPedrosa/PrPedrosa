@@ -13,6 +13,12 @@
 
 <hr>
 
+<p align="center">
+  <img src="https://www.codewars.com/users/PrPedrosa/badges/large" alt="codewars badge"
+</p>
+
+<hr>
+
 <h3 align="center">Languages & Tools</h3>
 
 <br>
