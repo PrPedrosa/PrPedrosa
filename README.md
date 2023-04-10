@@ -51,7 +51,7 @@
   </p>
   <hr>
   
-  <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact"/></p>
+  <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrPedrosa&layout=compact"/></p>
   <p align="center">
   <a href="https://www.codewars.com/users/PrPedrosa/"><img src="https://www.codewars.com/users/PrPedrosa/badges/large" alt="codewars badge"/></a>
 </p>
