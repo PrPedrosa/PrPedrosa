@@ -13,17 +13,14 @@
 
 <hr>
 
-<p align="center">
-  <a href="https://www.codewars.com/users/PrPedrosa/"><img src="https://www.codewars.com/users/PrPedrosa/badges/large" alt="codewars badge"/></a>
-</p>
-
-<hr>
-
 <h3 align="center">Languages & Tools</h3>
 
 <br>
 
 <p align="center" target="_blank">
+   <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"
+      alt="typescript" width="40" height="40" /> 
    <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
       alt="javascript" width="40" height="40" /> 
@@ -46,20 +43,18 @@
       src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg" alt="css3" width="40"
       height="40" /> 
    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="css3" width="40"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwindcss" width="40"
+      height="40" /> 
+  <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40"
       height="40" /> 
   </p>
+  <hr>
+  
+  <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact"/></p>
+  <p align="center">
+  <a href="https://www.codewars.com/users/PrPedrosa/"><img src="https://www.codewars.com/users/PrPedrosa/badges/large" alt="codewars badge"/></a>
+</p>
+ 
 
 
-<!--
-**PrPedrosa/PrPedrosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me:
--->
