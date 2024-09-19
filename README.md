@@ -7,7 +7,6 @@
 
 <p align="center" target="_blank"><a href="https://playsudokus.netlify.app/" rel="noreferrer">Sudoku</a></p>
 <p align="center" target="_blank"><a href="https://mr-noobs.netlify.app/" rel="noreferrer">Mr.Noobs game</a></p>
-<p align="center"><a href="https://gaming-hub.cyclic.app/" target="_blank" rel="noreferrer">GamingHub</a></p>
 <p align="center"><a href="https://pescarnasavencas.netlify.app/" target="_blank" rel="noreferrer">Fishing in Avencas</a></p>
 
 
